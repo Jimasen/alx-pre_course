@@ -1,1 +1,1 @@
-My first README and starting as a frsh software ingineer
+My first README and starting as a fresh software ingineer
